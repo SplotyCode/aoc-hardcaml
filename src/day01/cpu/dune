@@ -1,0 +1,4 @@
+(library
+ (name aoc2025_day01_cpu)
+ (public_name aoc2025.day01.cpu)
+ (libraries aoc2025.util))

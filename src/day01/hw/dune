@@ -1,0 +1,4 @@
+(library
+ (name aoc2025_day01_hw)
+ (public_name aoc2025.day01.hw)
+ (libraries hardcaml aoc2025.util))
