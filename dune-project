@@ -2,6 +2,10 @@
 (name aoc2025)
 (generate_opam_files true)
 
+(license "MIT")
+(authors "David")
+(maintainers "David")
+
 (package
  (name aoc2025)
  (depends
@@ -9,5 +13,7 @@
   dune
   ocamlfind
   hardcaml
+  ppx_hardcaml
   hardcaml_waveterm
+  ppx_jane
   alcotest))
